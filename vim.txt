@@ -1,0 +1,2 @@
+ sudo scp -i "aws-app.pem" -r ubuntu@<ip address>:/etc/nginx/sites-available/temple.conf /home/vimalpillai21/Desktop/
+
